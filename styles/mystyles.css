@@ -1,0 +1,16 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: rgb(165, 121, 67);
+}
+.bold {
+    font-weight: bold;
+}
+img {
+    width: 100%;
+    height: auto;
+    border: 4px solid black;
+    
+  }
+
